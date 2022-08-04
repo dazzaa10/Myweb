@@ -1,8 +1,12 @@
-{
+.contenth1 {
     font-family: arial;
     font-size: 1.4em;
     font-color: red;
     background: blanchedalmond;
     width: 100vw;
     height: 20px;
+}
+#contentp {
+    font-size: 1.5em;
+    font-family: cursive;
 }
